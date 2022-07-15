@@ -1,0 +1,26 @@
+{
+  "translations": {
+    "Social login": "Social login",
+    "Enabled": "Attivato",
+    "Unknown %s provider: \"%s\"": "Provider Sconosciuto %s : \"%s\"",
+    "Auto creating new users is disabled": "Creazione automatica dei nuovi utenti disabilitata",
+    "This account already connected": "Questo account è già collegato",
+    "Provider name cannot be empty": "Il nome del provider non può essere vuoto",
+    "Duplicate provider name \"%s\"": "Nome del provider \"%s\"già esistente",
+    "Invalid provider name \"%s\". Allowed characters \"0-9a-z_.@-\"": "Nome del provider \"% s\" non valido. Sono ammessi solo i seguenti caratteri \"0-9a-z_.@-\"",
+    "Social login connect": "Collega account Social",
+    "Available providers": "Providers disponibili",
+    "Social login connect is disabled": "Il  collegamento al Social login non è disabilitato",
+    "Email already registered": "Indirizzo email già registrato",
+    "Login from %s domain is not allowed for %s provider": "L'accesso dal dominio %s non è ammesso dal provider %s",
+    "Login is available only to members of the following GitHub organizations: %s": "L'accesso è disponibile solo per l'organizzazione %s di GitHub",
+    "Disable password confirmation on settings change": "Disabilita la conferma della password alla modifica delle impostazioni",
+    "New user created": "Creato nuovo utente",
+    "Your user group is not allowed to login, please contact support": "Al vostro gruppo utenti non è permesso l'accesso, contattate il supporto",
+    "Users without assigned groups is not allowed to login, please contact support'": "Gli utenti non assegnati a nessun grupppo non possono accedere, contattate il supporto",
+    "User %s (%s) just created via social login": "L'utente %s (%s) è stato appena creato via Social login",
+    "Log in with %s": "Accedi con %s",
+    "Log in with username or email": "Accedi con nome utente o email"
+  },
+  "pluralForm": "nplurals=2; plural=(n > 1);"
+}
